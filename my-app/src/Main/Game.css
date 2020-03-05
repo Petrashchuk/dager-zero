@@ -1,0 +1,13 @@
+.Place{
+    width: 150px;
+    height: 150px;
+    border:1px solid black;
+    margin: 20px auto;
+}
+.fields {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    float: left;
+    box-sizing: border-box;
+}
